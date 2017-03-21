@@ -1,0 +1,7 @@
+{
+  "backend": "mitie",
+  "mitie_file": "/home/sanjeev/Documents/program/mitie-model/MITIE-models/english/total_word_feature_extractor.dat",
+  "path" : "./models",
+  "data" : "data/restaurant .json",
+  "emulate":"wit"
+}
