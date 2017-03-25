@@ -24,6 +24,7 @@ sdist/
 var/
 wheels/
 logs/
+env_chat_bot/
 *.egg-info/
 .installed.cfg
 *.egg
